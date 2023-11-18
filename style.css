@@ -519,25 +519,34 @@ body{
         font-size: 50%;
     }
 
-    .review .box-container .box .user1{
+     .review .box-container .box .user1{
         position: relative;
-        right: 5rem;
-        bottom: 9rem;
+        right: 1rem;
+        bottom: 8rem;
         height: 95%;
         object-fit: cover;
     }
     .review .box-container .box .user2{
         position: relative;
-        right: 6rem;
+        right: 2rem;
         bottom: 12rem;
         height: 90%;
         object-fit: cover;
     }
     .review .box-container .box .user3{
         position: relative;
-        right: 9rem;
+        right: 5rem;
         bottom: 11rem;
         height: 90%;
         object-fit: cover;
+    }
+    .menu .box-container{
+        margin: 2rem;
+    }
+    .contact .row{
+        margin: 2rem;
+    }
+    .review .box-container{
+        margin: 2rem;
     }
 }
