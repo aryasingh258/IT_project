@@ -552,4 +552,7 @@ body{
     .header .icons {
         margin-right: 8rem;
     }
+    .home .content h3,p{
+       margin-right: 2rem;
+    }
 }
