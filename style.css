@@ -549,4 +549,7 @@ body{
     .review .box-container{
         margin: 2rem;
     }
+    .header .icons {
+        margin-right: 10rem;
+    }
 }
