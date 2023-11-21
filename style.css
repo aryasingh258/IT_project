@@ -552,4 +552,7 @@ body{
     .review .box-container{
         margin: 2rem;
     }
+    .home .content{
+        margin-right: 3rem;
+    }
 }
