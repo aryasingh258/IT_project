@@ -515,6 +515,9 @@ body{
   }
 }
 @media (max-width:430px){
+    body{
+        overflow:hidden
+    }
     html{
         font-size: 50%;
     }
@@ -548,11 +551,5 @@ body{
     }
     .review .box-container{
         margin: 2rem;
-    }
-    .header .icons {
-        margin-right: 8rem;
-    }
-    .home .content h3,p{
-       margin-right: 2rem;
     }
 }
